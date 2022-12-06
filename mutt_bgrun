@@ -66,6 +66,8 @@
 #	GRIMLEY EVANS <edmundo@rano.org> and Andreas Somogyi
 #	<aso@somogyi.nu>.
 
+######PUT IT IN /bin    i.e. /bin/mutt_bgrun
+
 prog=${0##*/}
 
 # Check the arguments first.
